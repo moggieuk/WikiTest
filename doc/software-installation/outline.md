@@ -34,13 +34,16 @@
  - Understanding-Operation-with-MMU_STATUS
  - Debugging
 
-<POINT AT WHICH USER CAN PLAY>
+POINT AT WHICH USER CAN PLAY
 
 06-Slicer-MMU-Setup
  - Slicer-Configuration
  - Tip-Forming-and-Purging
  - Tip-Cutting
  - Toolchange-Toolhead-Movement
+
+POINT AT WHICH USER CAN PRINT
+
 07-Optional-Feature-Setup
  - Gcode-Preprocessing
  - LED-Support
